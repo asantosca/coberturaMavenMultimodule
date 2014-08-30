@@ -1,0 +1,11 @@
+.DS_Store
+/target/
+/*/target/
+/*/.settings/
+/*/.classpath
+/*/.project
+/.settings/
+/*/bin/
+/**~
+chversion
+cleanbin
