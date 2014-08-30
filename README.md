@@ -19,7 +19,7 @@ and create a cobertura project in `./target/surefire-reports/cobertura/index.htm
 
 On my mac I can open the index.html page by using `open ./target/surefire-reports/cobertura/index.html`.
 
-Notes an Caveats
+Notes and Caveats
 
 You'll note that the tests aren't complete. The method getGoodbye is not currently being tested. This is intentional.
   
