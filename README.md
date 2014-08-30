@@ -1,4 +1,4 @@
-Maven Cobertura
+#Maven Cobertura#
 
 This is a fully functional Cobertura project written in Maven using only one module.
 
