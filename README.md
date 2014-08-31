@@ -21,5 +21,6 @@ On my mac I can open the index.html page by using `open ./target/surefire-report
 
 Notes and Caveats
 
-You'll note that the tests aren't complete. The method getGoodbye is not currently being tested. This is intentional.
+You'll note that the tests aren't complete. The method getGoodbye is not currently being tested. This is intentional to show how Cobertura handles code not covered.
   
+Note that, although there are two modules, the end report contains both reports from the sub modules.
