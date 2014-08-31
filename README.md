@@ -1,8 +1,8 @@
 #Maven Cobertura#
 
-This is a fully functional Cobertura project written in Maven using only one module.
+This is a fully functional Cobertura project written in Maven using multi modules.
 
-The purpose of this project is to demonstrate how to have Cobertura on a single Maven project.
+The purpose of this project is to demonstrate how to have Cobertura on a Maven project containing multi-modules.
 
 Environment:
 
